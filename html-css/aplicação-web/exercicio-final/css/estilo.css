@@ -1,0 +1,36 @@
+body, html{
+    margin: o;
+    padding: 0;
+    font-size: 18px;
+}
+
+body{
+    background: rgb(121, 153, 121);
+    background-size: 100%;
+    border: 0;
+}
+a, img{
+    max-width: 100%;
+    height: auto;
+}
+.principal{
+    width: 960px;
+    color: black;
+    background-color: aqua;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    height: 100px;
+    background-color: blue;
+}
+.cabecalho-logo{
+    float: left;
+
+}
+.cabecalho-logo a{
+    
+}
+.pesquisa{
+    float: right;
+}
