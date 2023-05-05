@@ -1,0 +1,34 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+body{
+    margin: 100px;
+    padding: 0;
+    background: linear-gradient(287.56deg, rgb(156, 209, 156) 0%,  rgb(216, 212, 212) 100%);
+}
+
+h1{
+    text-align: center;
+}
+
+.unidade1{
+    float: left;
+}
+
+.unidade2{
+    float: right;
+
+}
+
+.titulo_lista1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.explicação{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
